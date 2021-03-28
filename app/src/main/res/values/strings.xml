@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Monday Application</string>
+    <string name="goal">Goals</string>
+    <string name="finance">Finance</string>
+    <string name="comfort">Comfort</string>
+    <string name="health">Health</string>
+    <string name="trending">Trending</string>
+    <string name="trending2">TRENDING</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum convallis, tortor sit amet pulvinar consectetur, metus diam tempor...</string>
+    <string name="home">Home</string>
+</resources>
